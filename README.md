@@ -6,14 +6,14 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 
 ## Overview
 
-* [Review Papers](https://github.com/qibinc/NLP4Rec-Papers#review-papers)
-* [Research Papers](https://github.com/qibinc/NLP4Rec-Papers#research-papers)
-  * [Context-aware Recommendation](https://github.com/qibinc/NLP4Rec-Papers#context-aware-recommendation)
-  * [Text Ad Generation](https://github.com/qibinc/NLP4Rec-Papers#text-advertisement-generation)
-  * [Conversational Recommendation](https://github.com/qibinc/NLP4Rec-Papers#conversational-recommendation)
-  * [Text Recommendation](https://github.com/qibinc/NLP4Rec-Papers#text-recommendation)
-  * [KG for Recommendation](https://github.com/qibinc/NLP4Rec-Papers#knowledge-graph-for-recommendation)
-  * [Explainable Recommendation](https://github.com/qibinc/NLP4Rec-Papers#explainable-recommendation)
+* [Review Papers](https://github.com/THUDM/NLP4Rec-Papers#review-papers)
+* [Research Papers](https://github.com/THUDM/NLP4Rec-Papers#research-papers)
+  * [Context-aware Recommendation](https://github.com/THUDM/NLP4Rec-Papers#context-aware-recommendation)
+  * [Text Ad Generation](https://github.com/THUDM/NLP4Rec-Papers#text-ad-generation)
+  * [Conversational Recommendation](https://github.com/THUDM/NLP4Rec-Papers#conversational-recommendation)
+  * [KG for Recommendation](https://github.com/THUDM/NLP4Rec-Papers#kg-for-recommendation)
+  * [Explainable Recommendation](https://github.com/THUDM/NLP4Rec-Papers#explainable-recommendation)
+  * [Text Recommendation](https://github.com/THUDM/NLP4Rec-Papers#text-recommendation)
 
 ## Review Papers
 
@@ -34,7 +34,7 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 * [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/abs/1908.06605). Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu. EMNLP 2019. Tsinghua.
 * [Multi-Modal Generative Adversarial Network for Short Product Title Generation in Mobile E-Commerce](https://arxiv.org/abs/1904.01735). Jian-Guo Zhang, Pengcheng Zou, Zhao Li, Yao Wan, Xiuming Pan, Yu Gong, Philip S. Yu. NAACL-HLT 2019. Alibaba.
 
-### Conversatioanl Recommendation
+### Conversational Recommendation
 
 * [Deep Dialogue vs Casual Conversation in Recommender Systems](https://pdfs.semanticscholar.org/6510/e2b27354d281df176860715beb82b7798fab.pdf?_ga=2.158968378.1807733050.1571751313-1792050006.1563377190). Lorraine McGinty, Barry Smyth. 2002.
 * [A Personalized System for Conversational Recommendations](https://www.jair.org/index.php/jair/article/download/10374/24832). Cynthia A. Thompson, Mehmet H. Göker, Pat Langley. JAIR 2004.
