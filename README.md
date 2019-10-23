@@ -76,4 +76,9 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 ### Text Recommendation
 
 * [Ask the GRU: Multi-Task Learning for Deep Text Recommendations](https://dl.acm.org/ft_gateway.cfm?id=2959180&type=pdf). Trapit Bansal, David Belanger, Andrew McCallum. RecSys 2016.
+* [Embedding-based News Recommendation for Millions of Users](https://dl.acm.org/citation.cfm?id=3098108). Shumpei Okura, Yukihiro Tagami, Shingo Ono, and Akira Tajima. KDD 2017.
+* [DKN: Deep Knowledge-Aware Network for News Recommendation](https://arxiv.org/abs/1801.08284). Hongwei Wang, Fuzheng Zhang, Xing Xie, Minyi Guo. WWW 2018.
 * [DRN: A Deep Reinforcement Learning Framework for News Recommendation](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf). Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018.
+* [Neural News Recommendation with Long- and Short-term User Representations](https://www.aclweb.org/anthology/P19-1033/). Mingxiao An, Fangzhao Wu, Chuhan Wu, Kun Zhang, Zheng Liu, Xing Xie. ACL 2019.
+* [NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559). Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang, Xing Xie.  KDD 2019.
+* [Neural News Recommendation with Attentive Multi-View Learning](https://arxiv.org/abs/1907.05576). Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang, Xing Xie. IJCAI 2019.
