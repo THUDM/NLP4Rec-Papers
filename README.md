@@ -17,6 +17,9 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 
 ## Review Papers
 
+* [Critiquing-based recommenders: survey and emerging trends](https://link.springer.com/content/pdf/10.1007/s11257-011-9108-6.pdf). Li Chen, Pearl Pu. UMUAI 2012.
+* [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192). Yongfeng Zhang, Xu Chen. 2018.
+
 ## Research Papers
 
 ### KG for Recommendation
@@ -44,11 +47,11 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 * [A Personalized System for Conversational Recommendations](https://www.jair.org/index.php/jair/article/download/10374/24832). Cynthia A. Thompson, Mehmet H. Göker, Pat Langley. JAIR 2004.
 * [Improving Recommender Systems with Adaptive Conversational Strategies](https://www.researchgate.net/profile/Francesco_Ricci5/publication/221267362_Improving_recommender_systems_with_adaptive_conversational_strategies/links/0deec5232cff38507f000000/Improving-recommender-systems-with-adaptive-conversational-strategies.pdf). Tariq Mahmood, Francesco Ricci. HT 2009.
 * [Critiquing-based recommenders: survey and emerging trends](https://link.springer.com/content/pdf/10.1007/s11257-011-9108-6.pdf). Li Chen, Pearl Pu. UMUAI 2012.
-* [Converse-Et-Impera: Exploiting Deep Learning and Hierarchical Reinforcement Learning for Conversational Recommender Systems](https://www.researchgate.net/profile/Alessandro_Suglia/publication/320875588_Converse-Et-Impera_Exploiting_Deep_Learning_and_Hierarchical_Reinforcement_Learning_for_Conversational_Recommender_Systems/links/5bf6ad1592851c6b27d27324/Converse-Et-Impera-Exploiting-Deep-Learning-and-Hierarchical-Reinforcement-Learning-for-Conversational-Recommender-Systems.pdf). Claudio Greco, Alessandro Suglia, Pierpaolo Basile, and Giovanni Semeraro. AIIA 2019.
 * [Conversational Recommendation to Avoid the Cold-start Problem](https://www.researchgate.net/profile/Fernando_Benito-Picazo/publication/304895711_Conversational_recommendation_to_avoid_the_cold-start_problem/links/577ccb5508aec3b74337b2d9/Conversational-recommendation-to-avoid-the-cold-start-problem.pdf). F. Benito-Picazo, M. Enciso, C. Rossi and A. Guevara. CMMSE 2016.
 * [Towards Conversational Recommender Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/rfp0063-christakopoulou.pdf). Konstantina Christakopoulou, Filip Radlinski, Katja Hofmann. KDD 2016. Microsoft.
 * [Conversational Recommender System](https://arxiv.org/pdf/1806.03277). Yueming Sun, Yi Zhang. SIGIR 2018. UCSC.
 * [Towards Deep Conversational Recommendations](https://arxiv.org/pdf/1812.07617). Raymond Li, Samira Ebrahimi Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, and Chris Pal. NeurIPS 2018. Element AI.
+* [Converse-Et-Impera: Exploiting Deep Learning and Hierarchical Reinforcement Learning for Conversational Recommender Systems](https://www.researchgate.net/profile/Alessandro_Suglia/publication/320875588_Converse-Et-Impera_Exploiting_Deep_Learning_and_Hierarchical_Reinforcement_Learning_for_Conversational_Recommender_Systems/links/5bf6ad1592851c6b27d27324/Converse-Et-Impera-Exploiting-Deep-Learning-and-Hierarchical-Reinforcement-Learning-for-Conversational-Recommender-Systems.pdf). Claudio Greco, Alessandro Suglia, Pierpaolo Basile, and Giovanni Semeraro. AIIA 2019.
 * [Towards Knowledge-Based Recommender Dialog System](https://arxiv.org/abs/1908.05391). Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, Jie Tang. EMNLP 2019. Alibaba.
 * [Deep Conversational Recommender in Travel](https://arxiv.org/pdf/1907.00710). Lizi Liao, Ryuichi Takanobu, Yunshan Ma, Xun Yang, Minlie Huang, Tat-Seng Chua. arXiv preprint. NUS.
 
@@ -78,7 +81,7 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 
 ### Context-aware Recommendation
 
-* [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/ft_gateway.cfm?id=2959190&type=pdf). Paul Covington, Jay Adams, Emre Sargin. RecSys 2016. Google.
 * [Cross-domain Collaboration Recommendation](https://dl.acm.org/citation.cfm?id=3220050). Jie Tang, Sen Wu, Jimeng Sun, Hang Su. KDD 2012.
 * [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf). Ali Elkahky, Yang Song, Xiaodong He. WWW 2015. Microsoft Research.
+* [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/ft_gateway.cfm?id=2959190&type=pdf). Paul Covington, Jay Adams, Emre Sargin. RecSys 2016. Google.
 * [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://dl.acm.org/ft_gateway.cfm?id=3018665&type=pdf). Lei Zheng, Vahid Noroozi, Philip S. Yu. WSDM 2017. UIUC.
