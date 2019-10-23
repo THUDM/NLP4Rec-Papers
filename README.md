@@ -8,23 +8,27 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 
 * [Review Papers](https://github.com/THUDM/NLP4Rec-Papers#review-papers)
 * [Research Papers](https://github.com/THUDM/NLP4Rec-Papers#research-papers)
-  * [Context-aware Recommendation](https://github.com/THUDM/NLP4Rec-Papers#context-aware-recommendation)
+  * [KG for Recommendation](https://github.com/THUDM/NLP4Rec-Papers#kg-for-recommendation)
   * [Text Ad Generation](https://github.com/THUDM/NLP4Rec-Papers#text-ad-generation)
   * [Conversational Recommendation](https://github.com/THUDM/NLP4Rec-Papers#conversational-recommendation)
-  * [KG for Recommendation](https://github.com/THUDM/NLP4Rec-Papers#kg-for-recommendation)
   * [Explainable Recommendation](https://github.com/THUDM/NLP4Rec-Papers#explainable-recommendation)
   * [Text Recommendation](https://github.com/THUDM/NLP4Rec-Papers#text-recommendation)
+  * [Context-aware Recommendation](https://github.com/THUDM/NLP4Rec-Papers#context-aware-recommendation)
 
 ## Review Papers
 
 ## Research Papers
 
-### Context-aware Recommendation
+### KG for Recommendation
 
-* [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/ft_gateway.cfm?id=2959190&type=pdf). Paul Covington, Jay Adams, Emre Sargin. RecSys 2016. Google.
-* [Cross-domain Collaboration Recommendation](https://dl.acm.org/citation.cfm?id=3220050). Jie Tang, Sen Wu, Jimeng Sun, Hang Su. KDD 2012.
-* [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf). Ali Elkahky, Yang Song, Xiaodong He. WWW 2015. Microsoft Research.
-* [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://dl.acm.org/ft_gateway.cfm?id=3018665&type=pdf). Lei Zheng, Vahid Noroozi, Philip S. Yu. WSDM 2017. UIUC.
+* [Personalized Entity Recommendation: A Heterogeneous Information Network Approach](https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/wsdm14_xyu.pdf). Xiao Yu, Xiang Ren, Yizhou Sun, Quanquan Gu, Bradley Sturt, Urvashi Khandelwal, Brandon Norick, Jiawei Han. WSDM 2014. UIUC.
+* [Collaborative Knowledge Base Embedding for Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf). Fuzheng Zhang, Nicholas Jing Yuan, Defu Lian, Xing Xie, Wei-Ying Ma. KDD 2016. Microsoft Research.
+* [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks](https://www.researchgate.net/profile/Quanming_Yao/publication/317523407_Meta-Graph_Based_Recommendation_Fusion_over_Heterogeneous_Information_Networks/links/59eb9c264585151983cb73ff/Meta-Graph-Based-Recommendation-Fusion-over-Heterogeneous-Information-Networks.pdf). Huan Zhao, Quanming Yao, Jianda Li, Yangqiu Song, Dik Lun Lee. KDD 2017.
+* [RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467). Hongwei Wang, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. CIKM 2018. SJTU.
+* [Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://arxiv.org/pdf/1901.08907). Hongwei Wang, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. WWW 2019. SJTU.
+* [Jointly Learning Explainable Rules for Recommendation with Knowledge Graph](https://arxiv.org/pdf/1903.03714). Weizhi Ma, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, Xiang Ren. WWW 2019.
+* [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/pdf/1905.07854). Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua. KDD 2019. NUS.
+* [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237). Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang. SIGIR 2019.
 
 ### Text Ad Generation
 
@@ -47,17 +51,6 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 * [Towards Deep Conversational Recommendations](https://arxiv.org/pdf/1812.07617). Raymond Li, Samira Ebrahimi Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, and Chris Pal. NeurIPS 2018. Element AI.
 * [Towards Knowledge-Based Recommender Dialog System](https://arxiv.org/abs/1908.05391). Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, Jie Tang. EMNLP 2019. Alibaba.
 * [Deep Conversational Recommender in Travel](https://arxiv.org/pdf/1907.00710). Lizi Liao, Ryuichi Takanobu, Yunshan Ma, Xun Yang, Minlie Huang, Tat-Seng Chua. arXiv preprint. NUS.
-
-### KG for Recommendation
-
-* [Personalized Entity Recommendation: A Heterogeneous Information Network Approach](https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/wsdm14_xyu.pdf). Xiao Yu, Xiang Ren, Yizhou Sun, Quanquan Gu, Bradley Sturt, Urvashi Khandelwal, Brandon Norick, Jiawei Han. WSDM 2014. UIUC.
-* [Collaborative Knowledge Base Embedding for Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf). Fuzheng Zhang, Nicholas Jing Yuan, Defu Lian, Xing Xie, Wei-Ying Ma. KDD 2016. Microsoft Research.
-* [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks](https://www.researchgate.net/profile/Quanming_Yao/publication/317523407_Meta-Graph_Based_Recommendation_Fusion_over_Heterogeneous_Information_Networks/links/59eb9c264585151983cb73ff/Meta-Graph-Based-Recommendation-Fusion-over-Heterogeneous-Information-Networks.pdf). Huan Zhao, Quanming Yao, Jianda Li, Yangqiu Song, Dik Lun Lee. KDD 2017.
-* [RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467). Hongwei Wang, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. CIKM 2018. SJTU.
-* [Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://arxiv.org/pdf/1901.08907). Hongwei Wang, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. WWW 2019. SJTU.
-* [Jointly Learning Explainable Rules for Recommendation with Knowledge Graph](https://arxiv.org/pdf/1903.03714). Weizhi Ma, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, Xiang Ren. WWW 2019.
-* [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/pdf/1905.07854). Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua. KDD 2019. NUS.
-* [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237). Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang. SIGIR 2019.
 
 ### Explainable Recommendation
 
@@ -82,3 +75,10 @@ This is a collection of research papers on this topic. The Papers are sorted by 
 * [Neural News Recommendation with Long- and Short-term User Representations](https://www.aclweb.org/anthology/P19-1033/). Mingxiao An, Fangzhao Wu, Chuhan Wu, Kun Zhang, Zheng Liu, Xing Xie. ACL 2019.
 * [NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559). Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang, Xing Xie.  KDD 2019.
 * [Neural News Recommendation with Attentive Multi-View Learning](https://arxiv.org/abs/1907.05576). Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang, Xing Xie. IJCAI 2019.
+
+### Context-aware Recommendation
+
+* [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/ft_gateway.cfm?id=2959190&type=pdf). Paul Covington, Jay Adams, Emre Sargin. RecSys 2016. Google.
+* [Cross-domain Collaboration Recommendation](https://dl.acm.org/citation.cfm?id=3220050). Jie Tang, Sen Wu, Jimeng Sun, Hang Su. KDD 2012.
+* [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf). Ali Elkahky, Yang Song, Xiaodong He. WWW 2015. Microsoft Research.
+* [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://dl.acm.org/ft_gateway.cfm?id=3018665&type=pdf). Lei Zheng, Vahid Noroozi, Philip S. Yu. WSDM 2017. UIUC.
